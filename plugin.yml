@@ -1,0 +1,9 @@
+name: HyverseHub
+author: QuickScythe
+version: ALPHA
+description: The Hyverse hub plugin
+main: me.quickscythe.hyverse.hub.Main
+commands:
+  sql:
+    usage: /sql [query]
+    description: Run SQL commands from inside Minecraft!
